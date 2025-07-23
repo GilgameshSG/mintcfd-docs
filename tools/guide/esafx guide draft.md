@@ -6,12 +6,15 @@
 - Live prices, news updates, insights
 - Stop-loss, take-profit, alerts
 - Demo accounts
+
 ## Getting Started
 #### Creating an account
 
 - On the login screen, you can sign up for a new account through the link at the bottom, or log in using your existing account credentials.
 - Follow the signup process to create your new ESAFX account and log in.
+
 ![e84a5b70e4b4c02afb34eeb14cc7638f](/_images/e84a5b70e4b4c02afb34eeb14cc7638f.png "e84a5b70e4b4c02afb34eeb14cc7638f")![](/_images/e74dc555de084e9f94806821b6f2fc2b.png)![](/_images/2fe5587aebc22ade8381345e0aeb375b.png)![](/_images/dafe4661dff72fdf338f8781afcfda82.png)
+
 - [Placeholder - couldn't proceed past entering OTP]
 
 #### How to Trade
@@ -45,11 +48,13 @@
 # Instrument Details
 #### Trade
 - Trading form
+
 ![](/_images/e712ca67132268851530f2bc12eef58d.png)
 
 #### Charts
 - Under the Charts tab, you can view [up to date] charts, including time and date range views.
 - [Placeholder for other chart functions]
+
 ![](/_images/b2cc52c4130997a380a5cdf348479787.png)
 ![](/_images/4bf4d1567d4a906d732dbd2d9bbebb07.png)
 ![](/_images/b4c9a3b4074e746d1733402a3d646327.png)
@@ -61,6 +66,7 @@
 - Weekly schedule
 	- Market open/close
 	- Trading sessions/quote sessions hours
+
 ![](/_images/23a62266b2b17a60f3ed8bc44634900f.png)
 ![](/_images/984be1e996071d14893d0c125e8e9876.png)
 
@@ -92,6 +98,7 @@
 - You can search for Statements by [filters] or by date. 
 - Tapping on an entry will display the Order Details screen.
 - You can also export your Statements to a CSV or PDF file by tapping the Export button.
+
 ![](/_images/10dec52f90ad11a753e3eb9d2e9759e7.png)
 ![](/_images/68086db3e8037fbcf256c51494e7ddcc.png)
 ![](/_images/d0962a96a287fd086cb3cfe6c40ba6a2.png)
@@ -103,6 +110,7 @@
 
 # Account
 - In the Account tab, you can view your Account Summary and Account Analytics.
+
 ![](/_images/e4bfde370cbcf8748b9a0e437b2f0568.png)
 ![](/_images/1876c20d06e80f3cd5525d0922dcf863.png)
 ![](/_images/0822388a26ab67ed2edadb1f06c48190.png)
