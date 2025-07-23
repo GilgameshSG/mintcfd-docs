@@ -1,4 +1,4 @@
-# MintCFD Trader Guide
+# MintCFD Trader
 
 ## Platform Highlights
 * Crypto, Forex, indices, NSE, US commodities, and US stocks
@@ -9,7 +9,7 @@
 
 ## Getting Started
 
-### Creating an account
+## Creating an account
 ![](/_images/d6cd4c27790d813b3e97fbddb3a88ff8.png)
 
 1. On the login screen, you can sign up for a new account through the link at the bottom, or log in using your existing account credentials.
@@ -26,7 +26,7 @@
 
 4. You will then be asked to enter verification codes sent to your email and phone. Once you have verify the account with these codes, you can log in and begin trading.
 
-#### How to Trade
+## How to Trade
 
 ![](/_images/7c3353fc45a70e7a2fb9349e68f40bf2.png)
 
