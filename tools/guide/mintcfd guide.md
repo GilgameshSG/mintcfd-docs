@@ -10,7 +10,7 @@
 ## Getting Started
 
 ## Creating an account
-![](/_images/d6cd4c27790d813b3e97fbddb3a88ff8.png)
+![](/_images/d6cd4c27790d813b3e97fbddb3a88ff8.png "On the login screen, you can sign up for a new account through the link at the bottom, or log in using your existing account credentials.")
 
 1. On the login screen, you can sign up for a new account through the link at the bottom, or log in using your existing account credentials.
 
