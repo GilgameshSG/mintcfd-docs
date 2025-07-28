@@ -1,13 +1,4 @@
-## MintCFD Trader
-  
-  
-### ** Platform Highlights **
-* Crypto, Forex, indices, NSE, US commodities, and US stocks
-* Charts  
-* Live prices, news updates, insights  
-* Stop-loss, take-profit, alerts  
-* Demo accounts
-  
+## Trading Guide  
   
 ### ** Getting Started **
 
@@ -52,3 +43,11 @@
 ![](/_images/60ded06b9375263eee73d599171ff3f7.png)
 
 4. If your order is placed successfully, you will then see an Order Confirmation screen.
+
+
+### ** Platform Highlights **
+* Crypto, Forex, indices, NSE, US commodities, and US stocks
+* Charts  
+* Live prices, news updates, insights  
+* Stop-loss, take-profit, alerts  
+* Demo accounts
